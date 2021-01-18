@@ -1,5 +1,6 @@
 ## 서울시 박인성구 깃허브로 503번지 Access Denied
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=insung3511&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![InSung's github stats](https://github-readme-stats.vercel.app/api?username=insung3511&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insung3511&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Who are you?
 컴퓨터 시각처리를 주로 공부하며 라즈베리퐈이와 같이 하드웨어를 병합하며 여러 프로젝트 들을 시도 해보고 있는 𝑩𝒂𝒉𝒌 𝑰𝒏𝑺𝒖𝒏𝒈 입니다.
