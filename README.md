@@ -1,9 +1,11 @@
 ## 서울시 박인성구 깃허브로 503번지 Access Denied
 [![InSung's github stats](https://github-readme-stats.vercel.app/api?username=insung3511&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insung3511&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insung3511&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
+
+# Korean
 
 ### Who are you?
-컴퓨터 시각처리를 주로 공부하며 라즈베리퐈이와 같이 하드웨어를 병합하며 여러 프로젝트 들을 시도 해보고 있는 𝑩𝒂𝒉𝒌 𝑰𝒏𝑺𝒖𝒏𝒈 입니다.
+컴퓨터 시각처리를 주로 공부하며 라즈베리파이와 같이 하드웨어를 병합하며 여러 프로젝트 들을 시도 해보고 있는 𝑩𝒂𝒉𝒌 𝑰𝒏𝑺𝒖𝒏𝒈 입니다.
 
 ### My Awards
 - __2017__ 한세사이버보안고등학교 중학생 정보보안 콘테스트 (🥉)
@@ -16,3 +18,20 @@
 
 ### What am I do usually?
 컴퓨터 시각처리 (ex. <a href="://opencv.org">OpenCV</a>) 에 관련된 프로젝트나 공부 등을 주로 하고 있습니다. 그 외로는 라즈베리파이와 아두이노 등 IoT 요소에 포함 되는 부분들을 동아리 활동을 하면서 공부하고 있습니다. Raspberry Pi와 OpenCV를 함께 엮어서 프로젝트를 많이 진행 하였습니다. 
+
+# English
+
+### Who are you?
+This person is a 𝑩𝒂𝒉𝒌 𝑰𝒏𝑺𝒖𝒏𝒈 who mainly studies computer visual processing and is trying several projects by merging hardware such as Raspberry Pi.
+
+### My Awards
+- __2017__ Hansi Cyber Security High School | Student Information Protection Contest (🥉)
+- __2018__ Digital Media High School CTF Final Admission (🏅)
+- __2019__ Admitted to Sunrin Internet High School, Department of Information Security 🏫
+- __2019__ Join Sunrin Internet High School IoT Club <a href="nefus.kr">NEFUS</a>
+- __2019__ Sunrin Internet High School IoT Club Appointed as the 17th manager of <a href="nefus.kr">NEFUS</a>
+- __2019__ Sunrin Internet High School Hacking Defense Contest Encouragement Award (🏅)
+- __2020__ Sunrin Internet High School IoT Contest (🥈)
+
+### What am I do usually?
+I mainly work on projects and research related to computer vision processing (eg opencv.org: OpenCV</a >). In addition to that, I am working in the club and researching parts of IoT elements such as Raspberry Pi and Arduino. Raspberry Pi and OpenCV have been configured together and many projects have been undertaken.
