@@ -49,7 +49,7 @@ I mainly work on projects and research related to computer vision processing (eg
 # Contact
 <div align="center" style="text-align:center">
     <!--Instagram Here!-->
-    <a href="https://www.instagram.com/theclockis____ticking">
+    <a href="https://www.instagram.com/theclockis___ticking/">
         <img src="./icons/instagram.webp" width=11% alt="Instagram Icon"> 
     </a>
 </div>
