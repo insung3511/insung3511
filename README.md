@@ -13,7 +13,7 @@
 </div>
 
 ### Who are you?
-컴퓨터 시각처리를 주로 공부하며 라즈베리파이와 같이 하드웨어를 병합하며 여러 프로젝트 들을 시도 해보고 있는 𝑩𝒂𝒉𝒌 𝑰𝒏𝑺𝒖𝒏𝒈 입니다.
+컴퓨터 시각처리를 주로 공부하며 라즈베리파이와 같이 하드웨어를 병합하며 여러 프로젝트 들을 시도 해보고 있는 𝑩𝒂𝒉𝒌 𝑰𝒏𝑺𝒖𝒏𝒈 입니다. 자율주행의 개발에 힘을 써보고 싶으며 아직 부족한 것이 많아 노력하고 있습니다.
 
 ### My Awards
 - __2017__ 한세사이버보안고등학교 중학생 정보보안 콘테스트 (🥉)
@@ -60,4 +60,5 @@ I mainly work on projects and research related to computer vision processing (eg
     <a href="https://open.kakao.com/o/sCEMGLSc">
         <img src="./icons/kakao-talk.png" width=11% alt="Kakao Talk Icon" style="padding-right: 10px">
     </a>
+    
 </div>
