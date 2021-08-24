@@ -19,8 +19,8 @@
 - __2017__ 한세사이버보안고등학교 중학생 정보보안 콘테스트 (🥉)
 - __2018__ 디지털미디어고등학교 중학생 CTF 결승 진출 (🏅)
 - __2019__ 선린인터넷고등학교 정보보호과 입학 🏫
-- __2019__ 선린인터넷고등학교 IoT 동아리 <a href="https://nefus.kr">NEFUS</a> 합격 🍾
-- __2019__ 선린인터넷고등학교 IoT 동아리 <a href="https://nefus.kr">NEFUS</a> 17기 부장 임명
+- __2019__ 선린인터넷고등학교 IoT 동아리 <a href="http://nefus.kr">NEFUS</a> 합격 🍾
+- __2019__ 선린인터넷고등학교 IoT 동아리 <a href="http://nefus.kr">NEFUS</a> 17기 부장 임명
 - __2019__ 선린인터넷고등학교 해킹방어대회 장려상 (🏅)
 - __2020__ 선린인터넷고등학교 IoT 경진대회 (🥈)
 
@@ -42,8 +42,8 @@ This person is a 𝑩𝒂𝒉𝒌 𝑰𝒏𝑺𝒖𝒏𝒈 who mainly studies co
 - __2017__ Hansi Cyber Security High School | Student Information Protection Contest (🥉)
 - __2018__ Digital Media High School CTF Final Admission (🏅)
 - __2019__ Admitted to Sunrin Internet High School, Department of Information Security 🏫
-- __2019__ Join Sunrin Internet High School IoT Club <a href="https://nefus.kr">NEFUS</a> 🍾
-- __2019__ Sunrin Internet High School IoT Club Appointed as the 17th manager of <a href="https://nefus.kr">NEFUS</a>
+- __2019__ Join Sunrin Internet High School IoT Club <a href="http://nefus.kr">NEFUS</a> 🍾
+- __2019__ Sunrin Internet High School IoT Club Appointed as the 17th manager of <a href="http://nefus.kr">NEFUS</a>
 - __2019__ Sunrin Internet High School Hacking Defense Contest Encouragement Award (🏅)
 - __2020__ Sunrin Internet High School IoT Contest (🥈)
 
