@@ -9,6 +9,7 @@
 <div align="center" style="text-align:center">
 
 # Korean (한국어)
+세상을 새롭게 보는 개발자 박인성입니다.
 
 </div>
 
@@ -60,5 +61,4 @@ I mainly work on projects and research related to computer vision processing (eg
     <a href="https://open.kakao.com/o/sCEMGLSc">
         <img src="./icons/kakao-talk.png" width=11% alt="Kakao Talk Icon" style="padding-right: 10px">
     </a>
-    
 </div>
