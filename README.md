@@ -3,6 +3,8 @@
 <div align="center" style="text-align:center">
 
 [![InSung's github stats](https://github-readme-stats.vercel.app/api?username=insung3511&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insung.park123@gmail.com)](mailto:snugyun01@gmail.com)
+
 
 </div>
 
@@ -21,13 +23,10 @@
 - __2018__ 디지털미디어고등학교 중학생 CTF 결승 진출 (🏅)
 - __2019__ 선린인터넷고등학교 정보보호과 입학 🏫
 - __2019__ 선린인터넷고등학교 IoT 동아리 <a href="http://nefus.kr">NEFUS</a> 합격 🍾
+- __2019__ 삼성 SDS X JA Korea 코딩 캠퍼스 해커톤 본선 진출 (🏅)
 - __2019__ 선린인터넷고등학교 IoT 동아리 <a href="http://nefus.kr">NEFUS</a> 17기 부장 임명
 - __2019__ 선린인터넷고등학교 해킹방어대회 장려상 (🏅)
-- __2020__ 선린인터넷고등학교 IoT 경진대회 (🥈)
-
-### What am I do usually?
-컴퓨터 시각처리 (ex. <a href="https://opencv.org">OpenCV</a>) 에 관련된 프로젝트나 공부 등을 주로 하고 있습니다. 그 외로는 라즈베리파이와 아두이노 등 IoT 요소에 포함 되는 부분들을 동아리 활동을 하면서 공부하고 있습니다. Raspberry Pi와 OpenCV를 함께 엮어서 프로젝트를 많이 진행 하였습니다. 
-    
+- __2020__ 선린인터넷고등학교 IoT 경진대회 (🥈) 
 </div>
 
 <div align="center" style="text-align:center">
@@ -44,21 +43,7 @@ This person is a 𝑩𝒂𝒉𝒌 𝑰𝒏𝑺𝒖𝒏𝒈 who mainly studies co
 - __2018__ Digital Media High School CTF Final Admission (🏅)
 - __2019__ Admitted to Sunrin Internet High School, Department of Information Security 🏫
 - __2019__ Join Sunrin Internet High School IoT Club <a href="http://nefus.kr">NEFUS</a> 🍾
+- __2019__ 삼성 SDS X JA Korea Coding Campus Hackerton Final Admission (🏅)
 - __2019__ Sunrin Internet High School IoT Club Appointed as the 17th manager of <a href="http://nefus.kr">NEFUS</a>
 - __2019__ Sunrin Internet High School Hacking Defense Contest Encouragement Award (🏅)
 - __2020__ Sunrin Internet High School IoT Contest (🥈)
-
-### What am I do usually?
-I mainly work on projects and research related to computer vision processing (eg OpenCV). In addition to that, I am working in the club and researching parts of IoT elements such as Raspberry Pi and Arduino. Raspberry Pi and OpenCV have been configured together and many projects have been undertaken.
-
-# Contact
-<div align="center" style="text-align:center">
-    <!--Instagram Here!-->
-    <a href="https://www.instagram.com/theclockis___ticking/">
-        <img src="./icons/instagram.webp" width=11% alt="Instagram Icon" style="padding-right: 10px"> 
-    </a>
-    <!-- KakaoTalk Here! -->
-    <a href="https://open.kakao.com/o/sCEMGLSc">
-        <img src="./icons/kakao-talk.png" width=11% alt="Kakao Talk Icon" style="padding-right: 10px">
-    </a>
-</div>
