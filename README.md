@@ -1,11 +1,9 @@
 ## 서울시 박인성구 깃허브로 503번지 Access Denied
+[![B.InSung's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=insung3511)](https://github.com/anuraghazra/github-readme-stats)
+[![InSung's github stats](https://github-readme-stats.vercel.app/api?username=insung3511&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
 <div align="center" style="text-align:center">
-
-[![InSung's github stats](https://github-readme-stats.vercel.app/api?username=insung3511&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insung.park123@gmail.com)](mailto:insung.park123@gmail.com)
-
 </div>
 
 <div align="center" style="text-align:center">
