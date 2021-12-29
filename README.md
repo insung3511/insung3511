@@ -11,7 +11,7 @@
 <div align="center" style="text-align:center">
 
 # Korean (한국어)
-세상을 새롭게 보는 개발자 박인성입니다.
+컴퓨터의 안경사가 되고 싶은 박인성입니다.
 
 </div>
 
@@ -28,11 +28,14 @@
 - __2019__ 선린인터넷고등학교 해킹방어대회 장려상 (🏅)
 - __2020__ 선린인터넷고등학교 IoT 경진대회 (🥈) 
 - __2021__ 정보처리기능사 자격증 취득 ( 💳 )
+- __2021__ 한림대학교 인공지능융합학부 합격 🏫
+- __2021__ 리눅스마스터 2급 취득 ( 💳 )
 </div>
 
 <div align="center" style="text-align:center">
 
 # English (영어)
+I'm Bahk InSung who wants to be a optician for computer.
 
 </div>
 
@@ -48,3 +51,6 @@ This person is a 𝑩𝒂𝒉𝒌 𝑰𝒏𝑺𝒖𝒏𝒈 who mainly studies co
 - __2019__ Sunrin Internet High School IoT Club Appointed as the 17th manager of <a href="http://nefus.kr">NEFUS</a>
 - __2019__ Sunrin Internet High School Hacking Defense Contest Encouragement Award (🏅)
 - __2020__ Sunrin Internet High School IoT Contest (🥈)
+- __2021__ Acquired a certification for **Information Processing technical** ( 💳 )
+- __2021__ Passed the Department of A.I. Convergence at Hallym University 🏫
+- __2021__ Acquired a certification for **Linux Master Level 2** ( 💳 )
