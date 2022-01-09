@@ -5,13 +5,16 @@
 [![InSung's github stats](https://github-readme-stats.vercel.app/api?username=insung3511&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insung.park123@gmail.com)](mailto:insung.park123@gmail.com)
-
 <a href="https://instagram.com/theclockis___ticking">
     <img 
-        src="http://img.shields.io/badge/xml?style=flat&logo=Instagram&link=https://instagram.com/theclockis___ticking"
+        src="http://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&link=https://instagram.com/theclockis___ticking"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+<a href="https://insung3511.github.io">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://insung3511.github.io"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </div>
 
 <div align="center" style="text-align:center">
