@@ -6,6 +6,12 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insung.park123@gmail.com)](mailto:insung.park123@gmail.com)
 
+<a href="https://instagram.com/theclockis___ticking">
+    <img 
+        src="http://img.shields.io/badge/xml?style=flat&logo=Instagram&link=https://instagram.com/theclockis___ticking"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 </div>
 
 <div align="center" style="text-align:center">
