@@ -11,7 +11,7 @@
 
 🔨 Python, C, C#<br />
 👁 Computer Vision & Physical Computing <br />
-🏫 Sunrin Internet High School <br />
+🏫 Hallym University <br />
 🎯 Self-driving Car Engineer <br />
 
 ## More about me
