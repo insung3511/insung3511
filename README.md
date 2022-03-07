@@ -10,9 +10,9 @@
 ## Introducing myself 🤩
 
 🔨 Python, C, C#<br />
-👁 Computer Vision & Physical Computing <br />
-🏫 Hallym University <br />
-🎯 Self-driving Car Engineer <br />
+👁 Computer Vision & Physical Computig<br />
+🏫 Hallym University - Artifical Intelligence Coverage<br />
+🎯 Self-driving Car Engineer | AI Expert<br />
 
 ## More about me
 📓 <a href="https://insung3511.notion.site/About-the-InSung-b7708fb054654608a1dda6a5e3e7f648"> Notion</a>에 저에 대해서 더 많은 소개와 내용들을 작성하였습니다. Always welcome to my page :)<br/>
