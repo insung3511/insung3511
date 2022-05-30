@@ -10,7 +10,7 @@
 ## Introducing myself 🤩
 
 🔨 Python, C, C#<br />
-👁 Computer Vision & Physical Computig<br />
+👁 Computer Vision & Machine Learning <br />
 🏫 Hallym University - Artifical Intelligence Coverage<br />
 🎯 403 Secrete :p<br />
 
