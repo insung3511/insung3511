@@ -1,5 +1,5 @@
 ## Welcome to the my github 🌳
-늘 새로운 도전에 부딫치고 성장하고 싶은 박인성입니다.
+늘 새로운 도전에 부딪히고 성장하고 싶은 박인성입니다.
 
 [![Bahk InSung's GitHub stats](https://github-readme-stats.vercel.app/api/?username=insung3511&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=010409)](https://github.com/insung3511)
 
