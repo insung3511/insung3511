@@ -15,7 +15,6 @@
 🎯 403 Secrete :p<br />
 
 ## WakaTime ⏰
----
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
