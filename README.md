@@ -16,6 +16,15 @@
 
 ## WakaTime ⏰
 <!--START_SECTION:waka-->
+
+```text
+Python       4 hrs 55 mins   █████████████████████░░░░   84.60 %
+Markdown     26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+YAML         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Git Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+```
+
 <!--END_SECTION:waka-->
 
 ## More about me
