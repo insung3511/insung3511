@@ -21,11 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python     6 hrs 53 mins   ███████████████████▓░░░░░   78.91 %
-Markdown   1 hr 39 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-HTML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-YAML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
