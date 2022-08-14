@@ -19,14 +19,22 @@
 🏫 Hallym University - Artifical Intelligence Coverage <br />
 🎯 403 Secrete :p <br />
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> &nbsp;
+
+
 ## WakaTime ⏰
 
 <!--START_SECTION:waka-->
 
 ```text
-Python       11 hrs 37 mins  █████████████████████▓░░░   87.00 %
-Markdown     1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Python     2 hrs 45 mins   ███████████░░░░░░░░░░░░░░   44.21 %
+HTML       2 hrs 40 mins   ██████████▓░░░░░░░░░░░░░░   42.85 %
+Markdown   43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
