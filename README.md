@@ -17,7 +17,7 @@
 🔨 Python (Tensorflow, openCV), C# (Blazor) <br />
 👁 Computer Vision & Machine Learning <br />
 🏫 Hallym University - Artifical Intelligence Coverage <br />
-🎯 403 Secrete :p <br />
+🎯 Self driving car engineer <br />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
