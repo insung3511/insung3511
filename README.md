@@ -12,26 +12,20 @@
 
 ## Introducing myself 🤩
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Git-ff8000?style=flat-square&logo=Git&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"> &nbsp;
+
 🔨 Python (Tensorflow, openCV), C# (Blazor) <br />
 👁 Computer Vision & Machine Learning <br />
 🏫 Hallym University - Artifical Intelligence Coverage <br />
 🎯 403 Secrete :p <br />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> &nbsp;
-
-
-## WakaTime ⏰
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ## More about me
 
