@@ -3,6 +3,8 @@
 ## Welcome to the my github 🌳
 늘 새로운 도전에 부딪히고 성장하고 싶은 박인성입니다.
 
+</div>
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://insung3511.github.io/)](https://insung3511.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insung.park123@gmail.com)](mailto:insung.park123@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=purple&link=mailto:insung.park123@gmail.com)](https://instagram.com/theclockis___ticking)
@@ -32,5 +34,3 @@
 ## More about me
 
 📓 <a href="https://insung3511.notion.site/About-the-InSung-b7708fb054654608a1dda6a5e3e7f648"> Notion</a>에 저에 대해서 더 많은 소개와 내용들을 작성하였습니다. Always welcome to my page :)<br/>
-
-</div>
