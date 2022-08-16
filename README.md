@@ -25,20 +25,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> &nbsp;
 
-
-## WakaTime ⏰
-
-<!--START_SECTION:waka-->
-
-```text
-Python     2 hrs 45 mins   ███████████░░░░░░░░░░░░░░   44.21 %
-HTML       2 hrs 40 mins   ██████████▓░░░░░░░░░░░░░░   42.85 %
-Markdown   43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-```
-
-<!--END_SECTION:waka-->
-
 ## More about me
 
 📓 <a href="https://insung3511.notion.site/About-the-InSung-b7708fb054654608a1dda6a5e3e7f648"> Notion</a>에 저에 대해서 더 많은 소개와 내용들을 작성하였습니다. Always welcome to my page :)<br/>
