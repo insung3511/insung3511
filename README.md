@@ -1,6 +1,7 @@
 <div style="text-align: center">
 
 ## Welcome to the my github 🌳
+
 늘 새로운 도전에 부딪히고 성장하고 싶은 박인성입니다.
 
 </div>
@@ -31,7 +32,6 @@
 👁 Computer Vision & Machine Learning <br />
 🏫 Hallym University - Artifical Intelligence Coverage <br />
 🎯 403 Secrete :p <br />
-
 
 ## More about me
 
