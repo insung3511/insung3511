@@ -1,10 +1,6 @@
-<div style="text-align: center">
-
 ## Welcome to the my github 🌳
 
 늘 새로운 도전에 부딪히고 성장하고 싶은 박인성입니다.
-
-</div>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://insung3511.github.io/)](https://insung3511.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insung.park123@gmail.com)](mailto:insung.park123@gmail.com)
@@ -18,6 +14,8 @@
 
 ## Introducing myself 🤩
 
+
+<img src="https://img.shields.io/badge/Assembly-f54242?style=flat-square&logo=Assembly&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;
