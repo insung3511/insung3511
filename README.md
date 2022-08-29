@@ -1,10 +1,6 @@
-<div style="text-align: center">
-
 ## Welcome to the my github 🌳
 
 늘 새로운 도전에 부딪히고 성장하고 싶은 박인성입니다.
-
-</div>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://insung3511.github.io/)](https://insung3511.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insung.park123@gmail.com)](mailto:insung.park123@gmail.com)
@@ -18,11 +14,14 @@
 
 ## Introducing myself 🤩
 
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Linux-c9c9c9?style=flat-square&logo=Linux&logoColor=white"> &nbsp;
 
+
+<img src="https://img.shields.io/badge/Pytorch-d92121?style=flat-square&logo=Pytorch&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Git-ff8000?style=flat-square&logo=Git&logoColor=white"> &nbsp;
