@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Git-ff8000?style=flat-square&logo=Git&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"> &nbsp;
 
-🔨 Python (Tensorflow), C, C# <br />
+🔨 Python (Tensorflow, Pytorch), C <br />
 👁 Signal Processing (Bio-Medical) & Machine Learning <br />
 🏫 Hallym University - Artifical Intelligence Coverage <br />
 🎯 Medical Artifical Intelligence Machine Learning Enginner <br />
