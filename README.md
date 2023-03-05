@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;
 
-<img src="https://img.shields.io/badge/Linux-c9c9c9?style=flat-square&logo=Linux&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Pytorch-d92121?style=flat-square&logo=Pytorch&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white"> &nbsp;
