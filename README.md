@@ -1,4 +1,4 @@
-## Welcome to the my github 🌳
+## Welcome to the InSung Bahk Github Profile 🌳
 
 늘 새로운 도전에 부딪히고 성장하고 싶은 박인성입니다.
 
@@ -40,7 +40,5 @@
 ## More about me 🌏
 
 📓 <a href="https://insung3511.notion.site/About-the-InSung-b7708fb054654608a1dda6a5e3e7f648"> Notion</a>에 저에 대해서 더 많은 소개와 내용들을 작성하였습니다. Always welcome to my page :)<br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=insung3511&include_all_commits=true&count_private=true&show_icons=true&text_color=000000" alt="my Github Stats"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=insung3511&theme=juicyfresh&no-bg=true" />
