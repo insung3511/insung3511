@@ -34,7 +34,7 @@
 
 👁 Signal Processing (Bio-Medical) & Machine Learning <br />
 🏫 Hallym University - Artifical Intelligence Coverage <br />
-👔 Veritross 3th Member (EDGEAI Team) <br />
+👔 3rd year of Veritross Member (EDGEAI Team) <br />
 🎯 Medical Artifical Intelligence Machine Learning Enginner <br />
 
 ## More about me 🌏
