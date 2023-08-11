@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;
 
-## DS, ML Tools 🗡️ 
+## DS, ML Skills 🤖
 <img src="https://img.shields.io/badge/Scikit learn-e9812b?style=flat-square&logo=Scikit-learn&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Polars-1b1f22?style=flat-square&logo=Polars&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Numpy-3d60a9?style=flat-square&logo=Numpy&logoColor=white"> &nbsp;
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> &nbsp;
 
-## Basics 🪀
+## Basics Skills 🪀
 <img src="https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Git-ff8000?style=flat-square&logo=Git&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"> &nbsp;
@@ -35,6 +35,7 @@
 👁 Signal Processing (Bio-Medical) & Machine Learning <br />
 🏫 Hallym University - Artifical Intelligence Coverage <br />
 👔 3rd year of Veritross Member (EDGEAI Team) <br />
+🦁 LIKELION Univ 11th @ Hallym University (Co-operator) <br />
 🎯 Medical Artifical Intelligence Machine Learning Enginner <br />
 
 ## More about me 🌏
