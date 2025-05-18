@@ -14,7 +14,6 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;
 
 ## DS, ML Skills 🤖
 <img src="https://img.shields.io/badge/Scikit learn-e9812b?style=flat-square&logo=Scikit-learn&logoColor=white"> &nbsp;
