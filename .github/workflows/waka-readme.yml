@@ -18,6 +18,6 @@ jobs:
           SHOW_TITLE: true
           IGNORED_LANGUAGES: YAML JSON TOML
           COMMIT_MESSAGE: Updated waka-readme graph
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TARGET_PATH: README.md
           BLOCKS: ░▒▓█
