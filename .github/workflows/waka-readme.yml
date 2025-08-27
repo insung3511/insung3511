@@ -20,3 +20,4 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph
           TARGET_BRANCH: master
           TARGET_PATH: README.md
+          BLOCKS: ░▒▓█
